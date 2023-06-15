@@ -22,6 +22,7 @@ Loss function: Categorical cross-entropy.
 Optimizer: Adam optimizer.
 Metrics: Accuracy.
 The model is trained for 100 epochs with a batch size of 32. The training and testing sets are shuffled during training.
+Model used on app: https://drive.google.com/drive/u/2/folders/1tk_eG0Ce4R4fb4mWcFPqDMAVTS9IhVAR
 
 ## Results
 The model achieved an accuracy of 94% on the testing set, indicating its effectiveness in classifying glasses frame images based on face shape.
