@@ -30,7 +30,7 @@ The model achieved an accuracy of 94% on the testing set, indicating its effecti
 ## Usage
 To use this code for your own glasses frame classification task, follow these steps:
 
-Prepare your dataset with glasses frame images categorized by face shape.
+Prepare your dataset with face images categorized by face shape.
 Adjust the img_width and img_height variables to match the size of your input images.
 Ensure that the dataset is structured in separate directories for each class within the train and test directories.
 Run the code and observe the training process and accuracy results.
